@@ -1,2 +1,2 @@
-# READ ME
+# README
 Practicing a website design
